@@ -8,12 +8,12 @@ The objective of this project is to perform comprehensive data analysis on retai
 - <a href = "https://github.com/Yamini442/sales-data-analysis-retail/blob/main/Retail_data_response.csv">response data</a>
 
 ## Tools used
-SQL
-Python(Pandas,Numpy,Matplotlib)
-Excel
+SQL ,
+Python(Pandas,Numpy,Matplotlib),
+Excel.
 
 ## Questions / KPIs 
-The analysis focused on the following business questions and performance indicators:
+The analysis focused on the following business questions and performance indicators :
 - What are the monthly sales trends over the observed period?
 - How many transactions occur each month, and how does total spending vary?
 - What is the response rate to marketing campaigns across different months?
